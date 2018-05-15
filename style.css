@@ -1,92 +1,127 @@
+body {
+    font-family: sans-serif;
+}
+
+h2 {
+    margin-right: 5px;
+}
 img {
     width: 50%;
     height: 50%;
 }
 
+ul {
+    list-style-type: none;
+}
+
 li {
     font-size: 32px;
+    font-weight: lighter;
+    margin-bottom: 5px;
 }
 
 div {
     margin-bottom: 50px;
+    display: flex;
+    align-items: center;
 }
 
 #img1-primary {
+    background-color: #BB0121;
     color: #BB0121;
 }
 
 #img1-accent {
+    background-color: #E75B6B;
     color: #E75B6B;
 }
 
 #img1-text {
+    background-color: #231E11;
     color: #231E11;
 }
 
 #img1-accessory {
+    background-color: #647236;
     color: #647236;
 }
 
 #img2-primary {
+    background-color: #6C573D;
     color: #6C573D;
 }
 
 #img2-accent {
+    background-color: #756367;
     color: #756367;
 }
 
 #img2-text {
+    background-color: #201D28;
     color: #201D28;
 }
 
 #img2-accessory {
+    background-color: #CFB2A8;
     color: #CFB2A8;
 }
 
 #img3-primary {
+    background-color: #4A64A0;
     color: #4A64A0;
 }
 
 #img3-accent {
+    background-color: #8DCDE8;
     color: #8DCDE8;
 }
 
 #img3-text {
+    background-color: #1C1B4B;
     color: #1C1B4B;
 }
 
 #img3-accessory {
+    background-color: #DBF3F2;
     color: #DBF3F2;
 }
 
 #img4-primary {
+    background-color: #5D7651;
     color: #5D7651;
 }
 
 #img4-accent {
+    background-color: #F9EFCE;
     color: #F9EFCE;
 }
 
 #img4-text {
+    background-color: #0C1014;
     color: #0C1014;
 }
 
 #img4-accessory {
+    background-color: #A0A170;
     color: #A0A170;
 }
 
 #img5-primary {
+    background-color: #A1B24D;
     color: #A1B24D;
 }
 
 #img5-accent {
+    background-color: #4B6677;
     color: #4B6677;
 }
 
 #img5-text {
+    background-color: #030502;
     color: #030502;
 }
 
 #img5-accessory {
+    background-color: #607E51;
     color: #607E51;
 }
