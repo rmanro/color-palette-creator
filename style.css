@@ -26,6 +26,15 @@ div {
     align-items: center;
 }
 
+span {
+    font-family: Courier;
+}
+
+.label {
+    padding-left: 5px;
+    font-family: sans-serif;
+}
+
 #img1-primary {
     background-color: #BB0121;
     color: #BB0121;
