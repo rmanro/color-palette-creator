@@ -1,0 +1,44 @@
+img {
+    width: 50%;
+    height: 50%;
+}
+
+li {
+    font-size: 32px;
+}
+
+div {
+    margin-bottom: 50px;
+}
+
+#img1-primary {
+    color: #BB0121;
+}
+
+#img1-accent {
+    color: #E75B6B;
+}
+
+#img1-text {
+    color: #231E11;
+}
+
+#img1-accessory {
+    color: #647236;
+}
+
+#img2-primary {
+    color: #6C573D;
+}
+
+#img2-accent {
+    color: #756367;
+}
+
+#img2-text {
+    color: #201D28;
+}
+
+#img2-accessory {
+    color: #CFB2A8;
+}
